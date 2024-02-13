@@ -1,0 +1,31 @@
+body {
+    background-color: lightcoral;
+}
+h1 {
+    background-color: coral;
+}
+h1 {
+    color: darkred;
+}
+h2 {
+    font-weight: lighter;
+    flex-direction: column;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h2 {
+color: darkkhaki;
+}
+h2 {
+    background-color: black;
+}
+P {
+    color: blue;
+}
+button {
+     color: aqua;
+      background-color: black;
+}
+
+
+
+
